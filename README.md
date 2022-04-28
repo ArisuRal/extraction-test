@@ -1,1 +1,2 @@
-# extraction-test
+# Image Text Extraction and Translation
+
