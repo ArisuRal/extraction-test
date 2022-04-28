@@ -1,0 +1,6 @@
+~/thesis-app
+	|__/static
+	  |--LOGO OFFICIAL.png 
+	|__/template
+          |--upload_form.html
+	|--main.py
