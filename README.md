@@ -7,3 +7,6 @@ _NOTE: If you're using a mac `brew install tesseract` into your terminal_
 
 3. Install requirements.txt
 4. `python main.py`
+
+<hr>
+As of May 3, 2022, it is not yet done. 
