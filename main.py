@@ -68,8 +68,5 @@ if __name__ == "__main__":
 
     # host="0.0.0.0", port=5000, debug=True
     # host='0.0.0.0' means this will be hosted in your IP address instead of local host
-    # in the cmd prompt type in ipconfig to get your IPv4 Address: 192.168.0.104
-    # for testing purposes when using host='0.0.0.0' type this in url: http://192.168.0.104:5000/test
-    #  http://127.0.0.1:5000/
+    # in the cmd prompt type in ipconfig to get your IPv4
 
-    #change
