@@ -117,13 +117,16 @@
     </div>
     </nav>
 
+    <!-- BUTTONS -->
     <form method="POST" enctype="multipart/form-data">
 
         <div class="row">
+            <!-- CHOOSE FILE -->
             <div class="col-lg-3" style="padding-top: 3%;">
                 <input type="file" name="photo" id="choose-file" class="form-control">
             </div>
 
+            <!-- SELECT DROPDOWN-->
             <div class="col-lg-3" style="padding-top: 3%;">
                     <select class="form-select form-select-sm w-53" aria-label=".form-select-sm example">
                         <option selected>Select Language</option>
@@ -135,6 +138,7 @@
         </div>
 
         <div class="row">
+            <!-- CHECK BOX -->
             <div class="col-md-4">
                 <div class="form-check" style="padding-top: 3%;">
                     <input type="checkbox" id="dark-text" value="dark-font" name="dark-text">
@@ -142,6 +146,7 @@
                 </div>
             </div>
 
+            <!-- SUBMIT -->
             <div class="col-lg-8">
                 <div class="float-end">
                     <input type="submit" id="submit-button" class="btn btn-warning">
@@ -153,7 +158,7 @@
 
 
 
-   <!-- Result section
+   <!-- RESULT
                         {% if (isSubmit==True): %}
                            <div class="result">RESULT: {{phrase_output}}</div>
                         {% endif %}
